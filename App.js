@@ -42,12 +42,6 @@ export default function Home() {
         <Button text="🎸" style={styles.button} />
         <Button text="🎥" style={styles.button} />
       </View>
-      <View style={styles.buttonContainer}>
-        <Button text="🛩️" style={styles.button} />
-        <Button text="🚂" style={styles.button} />
-        <Button text="🚢" style={styles.button} />
-        <Button text="🚗" style={styles.button} />
-      </View>
       <Footer />
     </View>
   );
